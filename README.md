@@ -22,3 +22,12 @@ This simulation demonstrates:
 pip install numpy pandas matplotlib
 # Run the simulator
 python digital_decay_simulation.py
+
+## 📚 Citation
+If you use this code, please cite:
+@inproceedings{selvaguru2025digitaldecay,
+  title={Digital Decay: Designing Data That Ages Like Humans},
+  author={Achyuth Selvaguru and Pardhu Venkat and Kiran Kumar},
+  booktitle={IEEE International Conference on Human-Centered Computing},
+  year={2025}
+}
